@@ -1,4 +1,4 @@
-rootProject.name = "DRegnersen"
+rootProject.name = "java-labs"
 include("Lab1")
 include("Lab2")
 include(":Lab2:DataAccess")
